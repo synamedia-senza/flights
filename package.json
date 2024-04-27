@@ -1,0 +1,15 @@
+{
+  "name": "flights",
+  "version": "1.0.0",
+  "description": "Device authorization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Senza Team",
+  "dependencies": {
+    "express": "^4.18.1",
+    "errorhandler": "^1.3.5"
+  },
+  "devDependencies": {}
+}

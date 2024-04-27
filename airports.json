@@ -1,0 +1,1780 @@
+{
+  "airports": [
+    {
+      "code": "ABJ",
+      "country": "CI",
+      "names": {
+        "en": "Abidjan",
+        "es": "Abiyán",
+        "fr": "Abidjan",
+        "ru": "Абиджан",
+        "zh": "阿比让",
+        "jp": "アビジャン",
+        "kr": "아비장",
+        "hi": "एबिजान",
+        "he": "אביג'אן",
+        "ar": "أبيدجان"
+      }
+    },
+    {
+      "code": "ABQ",
+      "country": "US",
+      "names": {
+        "en": "Albuquerque",
+        "es": "Alburquerque",
+        "fr": "Albuquerque",
+        "ru": "Альбукерке",
+        "zh": "阿尔伯克基",
+        "jp": "アルバカーキ",
+        "kr": "앨버커키",
+        "hi": "अल्बुकर्क",
+        "he": "אלבקרקי",
+        "ar": "البوكيرك"
+      }
+    },
+    {
+      "code": "ADD",
+      "country": "ET",
+      "names": {
+        "en": "Addis Ababa",
+        "es": "Addis Abeba",
+        "fr": "Addis Ababa",
+        "ru": "Аддис Абеба",
+        "zh": "亚的斯亚贝巴",
+        "jp": "アディスアベバ",
+        "kr": "아디스 아바바",
+        "hi": "अदीस अबाबा",
+        "he": "אדיס אבבה",
+        "ar": "اديس ابابا"
+      },
+      "native": "አዲስ አበባ"
+    },
+    {
+      "code": "AMS",
+      "country": "NL",
+      "featured": true,
+      "names": {
+        "en": "Amsterdam",
+        "es": "Ámsterdam",
+        "fr": "Amsterdam",
+        "ru": "Амстердам",
+        "zh": "阿姆斯特丹",
+        "jp": "アムステルダム",
+        "kr": "암스테르담",
+        "hi": "एम्स्टर्डम",
+        "he": "אמסטרדם",
+        "ar": "أمستردام"
+      }
+    },
+    {
+      "code": "ARN",
+      "country": "SE",
+      "names": {
+        "en": "Stockholm",
+        "es": "Estocolmo",
+        "fr": "Stockholm",
+        "ru": "Стокгольм",
+        "zh": "斯德哥尔摩",
+        "jp": "ストックホルム",
+        "kr": "스톡홀름",
+        "hi": "स्टॉकहोम",
+        "he": "שטוקהולם",
+        "ar": "ستوكهولم"
+      }
+    },
+    {
+      "code": "ATL",
+      "country": "US",
+      "names": {
+        "en": "Atlanta",
+        "es": "Atlanta",
+        "fr": "Atlanta",
+        "ru": "Атланта",
+        "zh": "亚特兰大",
+        "jp": "アトランタ",
+        "kr": "애틀랜타",
+        "hi": "अटलांटा",
+        "he": "אטלנטה",
+        "ar": "أتلانتا"
+      }
+    },
+    {
+      "code": "BCN",
+      "country": "ES",
+      "names": {
+        "en": "Barcelona",
+        "es": "Barcelona",
+        "fr": "Barcelone",
+        "ru": "Барселона",
+        "zh": "巴塞罗那",
+        "jp": "バルセロナ",
+        "kr": "바르셀로나",
+        "hi": "बार्सिलोना",
+        "he": "ברצלונה",
+        "ar": "برشلونة"
+      }
+    },
+    {
+      "code": "BEG",
+      "country": "RS",
+      "lang": "ru",
+      "names": {
+        "en": "Belgrade",
+        "es": "Belgrado",
+        "fr": "Belgrade",
+        "ru": "Белград",
+        "zh": "贝尔格莱德",
+        "jp": "ベオグラード",
+        "kr": "베오그라드",
+        "hi": "बेलग्रेड",
+        "he": "בלגרד",
+        "ar": "بلغراد"
+      },
+      "native": "Београд"
+    },
+    {
+      "code": "BER",
+      "country": "DE",
+      "featured": true,
+      "names": {
+        "en": "Berlin",
+        "es": "Berlina",
+        "fr": "Berlin",
+        "ru": "Берлин",
+        "zh": "柏林",
+        "jp": "ベルリン",
+        "kr": "베를린",
+        "hi": "बर्लिन",
+        "he": "ברלין",
+        "ar": "برلين"
+      }
+    },
+    {
+      "code": "BKK",
+      "country": "TH",
+      "names": {
+        "en": "Bangkok",
+        "es": "Bangkok",
+        "fr": "Bangkok",
+        "ru": "Бангкок",
+        "zh": "曼谷",
+        "jp": "バンコク",
+        "kr": "방콕",
+        "hi": "बैंकाक",
+        "he": "בנגקוק",
+        "ar": "بانكوك"
+      },
+      "native": "กรุงเทพมหานคร"
+    },
+    {
+      "code": "BKO",
+      "country": "ML",
+      "names": {
+        "en": "Bamako",
+        "es": "Bamako",
+        "fr": "Bamako",
+        "ru": "Бамако",
+        "zh": "巴马科",
+        "jp": "バマコ",
+        "kr": "바마코",
+        "hi": "बमाको",
+        "he": "במקו",
+        "ar": "باماكو"
+      }
+    },
+    {
+      "code": "BLR",
+      "country": "IN",
+      "lang": "hi",
+      "names": {
+        "en": "Bangalore",
+        "es": "Bangalore",
+        "fr": "Bangalore",
+        "ru": "Бангалор",
+        "zh": "班加罗尔",
+        "jp": "バンガロール",
+        "kr": "방갈로르",
+        "hi": "बैंगलोर",
+        "he": "בנגלור",
+        "ar": "بنغالور"
+      },
+      "native": "ಬೆಂಗಳೂರು"
+    },
+    {
+      "code": "BOM",
+      "country": "IN",
+      "lang": "hi",
+      "names": {
+        "en": "Mumbai",
+        "es": "Bombay",
+        "fr": "Bombay",
+        "ru": "Мумбаи",
+        "zh": "孟买",
+        "jp": "ムンバイ",
+        "kr": "뭄바이",
+        "hi": "मुंबई",
+        "he": "מומבאי",
+        "ar": "مومباي"
+      },
+      "native": "मुंबई"
+    },
+    {
+      "code": "BOS",
+      "country": "US",
+      "names": {
+        "en": "Boston",
+        "es": "Bostón",
+        "fr": "Boston",
+        "ru": "Бостон",
+        "zh": "波士顿",
+        "jp": "ボストン",
+        "kr": "보스턴",
+        "hi": "बोस्टान",
+        "he": "בוסטון",
+        "ar": "بوسطن"
+      }
+    },
+    {
+      "code": "BRU",
+      "country": "BE",
+      "featured": true,
+      "lang": "fr",
+      "names": {
+        "en": "Brussels",
+        "es": "Bruselas",
+        "fr": "Bruxelles",
+        "ru": "Брюссель",
+        "zh": "布鲁塞尔",
+        "jp": "ブリュッセル",
+        "kr": "브뤼셀",
+        "hi": "ब्रसेल्स",
+        "he": "בריסל",
+        "ar": "بروكسل"
+      },
+      "native": "Bruxelles"
+    },
+    {
+      "code": "BTS",
+      "country": "SK",
+      "names": {
+        "en": "Bratislava",
+        "es": "Bratislava",
+        "fr": "Bratislava",
+        "ru": "Братислава",
+        "zh": "布拉迪斯拉发",
+        "jp": "ブラチスラバ",
+        "kr": "브라티슬라바",
+        "hi": "ब्रैटिस्लावा",
+        "he": "ברטיסלבה",
+        "ar": "براتيسلافا"
+      }
+    },
+    {
+      "code": "BUD",
+      "country": "HU",
+      "featured": true,
+      "names": {
+        "en": "Budapest",
+        "es": "Budapest",
+        "fr": "Budapest",
+        "ru": "Будапешт",
+        "zh": "布达佩斯",
+        "jp": "ブダペスト",
+        "kr": "부다페스트",
+        "hi": "बुडापेस्ट",
+        "he": "בודפשט",
+        "ar": "بودابست"
+      }
+    },
+    {
+      "code": "BWI",
+      "country": "US",
+      "names": {
+        "en": "Baltimore",
+        "es": "Baltimore",
+        "fr": "Baltimore",
+        "ru": "Балтимор",
+        "zh": "巴尔的摩",
+        "jp": "ボルチモア",
+        "kr": "볼티모어",
+        "hi": "बाल्टीमोर",
+        "he": "בולטימור",
+        "ar": "بالتيمور"
+      }
+    },
+    {
+      "code": "CAI",
+      "country": "EG",
+      "featured": true,
+      "lang": "ar",
+      "names": {
+        "en": "Cairo",
+        "es": "El Cairo",
+        "fr": "Caire",
+        "ru": "Каир",
+        "zh": "开罗",
+        "jp": "カイロ",
+        "kr": "카이로",
+        "hi": "काहिरा",
+        "he": "קהיר",
+        "ar": "القاهرة"
+      },
+      "native": "القاهرة"
+    },
+    {
+      "code": "CAN",
+      "country": "CN",
+      "lang": "zh",
+      "names": {
+        "en": "Guangzhou",
+        "es": "Cantón",
+        "fr": "Canton",
+        "ru": "Гуанчжоу",
+        "zh": "广州",
+        "jp": "広州",
+        "kr": "광저우",
+        "hi": "गुआंगज़ौ",
+        "he": "גואנגג'ואו",
+        "ar": "قوانغتشو"
+      },
+      "native": "广州"
+    },
+    {
+      "code": "CDG",
+      "country": "FR",
+      "featured": true,
+      "lang": "fr",
+      "names": {
+        "en": "Paris CDG",
+        "es": "París CDG",
+        "fr": "Paris CDG",
+        "ru": "Париж",
+        "zh": "巴黎",
+        "jp": "パリ",
+        "kr": "파리",
+        "hi": "पेरिस",
+        "he": "פריז",
+        "ar": "باريس"
+      }
+    },
+    {
+      "code": "CGK",
+      "country": "ID",
+      "lang": "zh",
+      "names": {
+        "en": "Jakarta",
+        "es": "Jacarta",
+        "fr": "Djakarta",
+        "ru": "Джакарта",
+        "zh": "雅加达",
+        "jp": "ジャカルタ",
+        "kr": "자카르타",
+        "hi": "जकार्ता",
+        "he": "ג'קרטה",
+        "ar": "جاكرتا"
+      },
+      "native": "广州"
+    },
+    {
+      "code": "CLT",
+      "country": "US",
+      "names": {
+        "en": "Charlotte",
+        "es": "Charlotte",
+        "fr": "Charlotte",
+        "ru": "Шарлотта",
+        "zh": "夏洛特",
+        "jp": "シャーロット",
+        "kr": "샬럿",
+        "hi": "चालट",
+        "he": "שרלוט",
+        "ar": "شارلوت"
+      }
+    },
+    {
+      "code": "COO",
+      "country": "BJ",
+      "names": {
+        "en": "Cotonou",
+        "es": "Cotonú",
+        "fr": "Cotonou",
+        "ru": "Котону",
+        "zh": "科托努",
+        "jp": "コトヌー",
+        "kr": "코토누",
+        "hi": "कोटोनौ",
+        "he": "קוטונו",
+        "ar": "كوتونو"
+      }
+    },
+    {
+      "code": "CPH",
+      "country": "DK",
+      "names": {
+        "en": "Copenhagen",
+        "es": "Copenhague",
+        "fr": "Copenhague",
+        "ru": "Копенгаген",
+        "zh": "哥本哈根",
+        "jp": "コペンハーゲン",
+        "kr": "코펜하겐",
+        "hi": "कोपेनहेगन",
+        "he": "קופנהגן",
+        "ar": "كوبنهاغن"
+      }
+    },
+    {
+      "code": "CPT",
+      "country": "ZA",
+      "featured": true,
+      "names": {
+        "en": "Cape Town",
+        "es": "Ciudad del Cabo",
+        "fr": "Le Cap",
+        "ru": "Кейптаун",
+        "zh": "开普敦",
+        "jp": "ケープタウン",
+        "kr": "케이프 타운",
+        "hi": "केप टाउन",
+        "he": "קייפטאון",
+        "ar": "كيب تاون"
+      },
+      "native": "Kaapstad"
+    },
+    {
+      "code": "CTS",
+      "country": "JP",
+      "lang": "jp",
+      "names": {
+        "en": "Sapporo",
+        "es": "Sapporo",
+        "fr": "Sapporo",
+        "ru": "Саппоро",
+        "zh": "札幌",
+        "jp": "札幌",
+        "kr": "삿포로",
+        "hi": "सपोरो",
+        "he": "סאפורו",
+        "ar": "سابورو"
+      },
+      "native": "札幌"
+    },
+    {
+      "code": "DAR",
+      "country": "TZ",
+      "lang": "ar",
+      "names": {
+        "en": "Dar es Salaam",
+        "es": "Dar es Salaam",
+        "fr": "Dar es Salam",
+        "ru": "Дар эс Салам",
+        "zh": "达累斯萨拉姆",
+        "jp": "ダルエスサラーム",
+        "kr": "다르에스살람",
+        "hi": "दार एस सलाम",
+        "he": "דאר א-סלאם",
+        "ar": "دار السلام"
+      },
+      "native": "دار السلام"
+    },
+    {
+      "code": "DEL",
+      "country": "IN",
+      "lang": "hi",
+      "names": {
+        "en": "Delhi",
+        "es": "Delhi",
+        "fr": "Delhi",
+        "ru": "Дели",
+        "zh": "德里",
+        "jp": "デリー",
+        "kr": "델리",
+        "hi": "दिल्ली",
+        "he": "דלהי",
+        "ar": "دلهي"
+      },
+      "native": "दिल्ली"
+    },
+    {
+      "code": "DEN",
+      "country": "US",
+      "names": {
+        "en": "Denver",
+        "es": "Denver",
+        "fr": "Denver",
+        "ru": "Денвер",
+        "zh": "丹佛",
+        "jp": "デンバー",
+        "kr": "덴버",
+        "hi": "डेनवर",
+        "he": "דנבר",
+        "ar": "دنفر"
+      }
+    },
+    {
+      "code": "DFW",
+      "country": "US",
+      "names": {
+        "en": "Dallas",
+        "es": "Dallas",
+        "fr": "Dallas",
+        "ru": "Даллас",
+        "zh": "达拉斯",
+        "jp": "ダラス",
+        "kr": "달라스",
+        "hi": "डलास",
+        "he": "דאלאס",
+        "ar": "دالاس"
+      }
+    },
+    {
+      "code": "DOH",
+      "country": "QA",
+      "lang": "ar",
+      "names": {
+        "en": "Doha",
+        "es": "Doha",
+        "fr": "Doha",
+        "ru": "Доха",
+        "zh": "多哈",
+        "jp": "ドーハ",
+        "kr": "도하",
+        "hi": "दोहा",
+        "he": "דוחה",
+        "ar": "الدوحة"
+      },
+      "native": "الدوحة"
+    },
+    {
+      "code": "DSS",
+      "country": "SN",
+      "featured": true,
+      "lang": "fr",
+      "names": {
+        "en": "Dakar",
+        "es": "Dakar",
+        "fr": "Dakar",
+        "ru": "Дакар",
+        "zh": "达喀尔",
+        "jp": "ダカール",
+        "kr": "다카르",
+        "hi": "डकार",
+        "he": "דקאר",
+        "ar": "داكار"
+      }
+    },
+    {
+      "code": "DUB",
+      "country": "IE",
+      "names": {
+        "en": "Dublin",
+        "es": "Dublín",
+        "fr": "Dublín",
+        "ru": "Дублин",
+        "zh": "都柏林",
+        "jp": "ダブリン",
+        "kr": "더블린",
+        "hi": "डबलिन",
+        "he": "דבלין",
+        "ar": "دبلن"
+      },
+      "native": "Baile Átha Cliath"
+    },
+    {
+      "code": "DXB",
+      "country": "AE",
+      "featured": true,
+      "lang": "ar",
+      "names": {
+        "en": "Dubai",
+        "es": "Dubái",
+        "fr": "Dubai",
+        "ru": "Дубай",
+        "zh": "迪拜",
+        "jp": "ドバイ",
+        "kr": "두바이",
+        "hi": "दुबई",
+        "he": "דובאי",
+        "ar": "دبي"
+      },
+      "native": "دبي"
+    },
+    {
+      "code": "EBB",
+      "country": "UG",
+      "names": {
+        "en": "Kampala",
+        "es": "Kampala",
+        "fr": "Kampala",
+        "ru": "Кампала",
+        "zh": "坎帕拉",
+        "jp": "カンパラ",
+        "kr": "캄팔라",
+        "hi": "कंपाला",
+        "he": "קמפלה",
+        "ar": "كمبالا"
+      }
+    },
+    {
+      "code": "EWR",
+      "country": "US",
+      "names": {
+        "en": "Newark",
+        "es": "Nueva York",
+        "fr": "Newark",
+        "ru": "Ньюарк",
+        "zh": "纽瓦克",
+        "jp": "ニューアーク",
+        "kr": "뉴어크",
+        "hi": "नेवार्क",
+        "he": "ניוארק",
+        "ar": "نيوارك"
+      }
+    },
+    {
+      "code": "FCO",
+      "country": "IT",
+      "names": {
+        "en": "Rome",
+        "es": "Roma",
+        "fr": "Rome",
+        "ru": "Рим",
+        "zh": "罗马",
+        "jp": "ローマ",
+        "kr": "로마",
+        "hi": "रोम",
+        "he": "רומא",
+        "ar": "روما"
+      },
+      "native": "Roma"
+    },
+    {
+      "code": "FNJ",
+      "country": "KP",
+      "featured": true,
+      "lang": "kr",
+      "names": {
+        "en": "Pyongyang",
+        "es": "Pionyang",
+        "fr": "Pyongyang",
+        "ru": "Пхеньян",
+        "zh": "平壤",
+        "jp": "平壌",
+        "kr": "평양",
+        "hi": "फियोंगयांग",
+        "he": "פיונגיאנג",
+        "ar": "بيونغ يانغ"
+      },
+      "native": "평양"
+    },
+    {
+      "code": "FRA",
+      "country": "DE",
+      "names": {
+        "en": "Frankfurt",
+        "es": "Francfort",
+        "fr": "Francfort",
+        "ru": "Франкфурт",
+        "zh": "法兰克福",
+        "jp": "フランクフルト",
+        "kr": "프랑크푸르트",
+        "hi": "फ्रैंकफर्ट",
+        "he": "פרנקפורט",
+        "ar": "فرانكفورت"
+      }
+    },
+    {
+      "code": "FUK",
+      "country": "JP",
+      "lang": "jp",
+      "names": {
+        "en": "Fukuoka",
+        "es": "Fukuoka",
+        "fr": "Fukuoka",
+        "ru": "Фукуока",
+        "zh": "福冈",
+        "jp": "福岡",
+        "kr": "후쿠오카",
+        "hi": "फुकुओका",
+        "he": "פוקואוקה",
+        "ar": "فوكوكا"
+      },
+      "native": "福岡"
+    },
+    {
+      "code": "GRU",
+      "country": "BR",
+       "names": {
+        "en": "São Paulo",
+        "es": "Sao Paulo",
+        "fr": "São Paulo",
+        "ru": "Сан Паулу",
+        "zh": "圣保罗",
+        "jp": "サンパウロ",
+        "kr": "상파울루",
+        "hi": "साओ पाउलो",
+        "he": "סאו פאולו",
+        "ar": "ساو باولو"
+      }
+    },
+    {
+      "code": "GVA",
+      "country": "CH",
+      "names": {
+        "en": "Geneva",
+        "es": "Ginebra",
+        "fr": "Genève",
+        "ru": "Женева",
+        "zh": "日内瓦",
+        "jp": "ジュネーブ",
+        "kr": "제네바",
+        "hi": "जिनेवा",
+        "he": "ז'נבה",
+        "ar": "جنيف"
+      },
+      "native": "Genève"
+    },
+    {
+      "code": "HEL",
+      "country": "FI",
+      "names": {
+        "en": "Helsinki",
+        "es": "Helsinki",
+        "fr": "Helsinki",
+        "ru": "Хельсинки",
+        "zh": "赫尔辛基",
+        "jp": "ヘルシンキ",
+        "kr": "헬싱키",
+        "hi": "हेलसिंकी",
+        "he": "הלסינקי",
+        "ar": "هلسنكي"
+      }
+    },
+    {
+      "code": "HKG",
+      "country": "HK",
+      "featured": true,
+      "lang": "zh",
+      "names": {
+        "en": "Hong Kong",
+        "es": "Hong Kong",
+        "fr": "Hong Kong",
+        "ru": "Гонконг",
+        "zh": "香港",
+        "jp": "香港",
+        "kr": "홍콩",
+        "hi": "हांगकांग",
+        "he": "הונג קונג",
+        "ar": "هونج كونج"
+      },
+      "native": "香港"
+    },
+    {
+      "code": "HND",
+      "country": "JP",
+      "lang": "jp",
+      "names": {
+        "en": "Tokyo Haneda",
+        "es": "Tokio Haneda",
+        "fr": "Tokyo Haneda",
+        "ru": "Токио Ханеда",
+        "zh": "东京羽田",
+        "jp": "東京・羽田",
+        "kr": "도쿄 하네다",
+        "hi": "टोक्यो हनेडा",
+        "he": "טוקיו האנדה",
+        "ar": "طوكيو هانيدا"
+      },
+      "native": "東京・羽田"
+    },
+    {
+      "code": "IAD",
+      "country": "US",
+      "names": {
+        "en": "Washington",
+        "es": "Washington",
+        "fr": "Washington",
+        "ru": "Вашингтон",
+        "zh": "华盛顿",
+        "jp": "ワシントン",
+        "kr": "워싱턴",
+        "hi": "वाशिंगटन",
+        "he": "וושינגטון",
+        "ar": "واشنطن"
+      }
+    },
+    {
+      "code": "IAH",
+      "country": "US",
+      "names": {
+        "en": "Houston",
+        "es": "Houston",
+        "fr": "Houston",
+        "ru": "Хьюстон",
+        "zh": "休斯顿",
+        "jp": "ヒューストン",
+        "kr": "휴스턴",
+        "hi": "ह्यूस्टन",
+        "he": "יוסטון",
+        "ar": "هيوستن"
+      }
+    },
+    {
+      "code": "ICN",
+      "country": "KR",
+      "featured": true,
+      "lang": "kr",
+      "names": {
+        "en": "Seoul",
+        "es": "Seúl",
+        "fr": "Séoul",
+        "ru": "Сеул",
+        "zh": "汉城",
+        "jp": "ソウル",
+        "kr": "서울",
+        "hi": "सोल",
+        "he": "סיאול",
+        "ar": "سيول"
+      },
+      "native": "서울"
+    },
+    {
+      "code": "IST",
+      "country": "TR",
+      "featured": true,
+      "names": {
+        "en": "Istanbul",
+        "es": "Estanbul",
+        "fr": "Istanbul",
+        "ru": "Стамбул",
+        "zh": "伊斯坦布尔",
+        "jp": "イスタンブール",
+        "kr": "이스탄불",
+        "hi": "इस्तांबुल",
+        "he": "איסטנבול",
+        "ar": "اسطنبول"
+      },
+      "native": "İstanbul"
+    },
+    {
+      "code": "JED",
+      "country": "SA",
+      "lang": "ar",
+      "names": {
+        "en": "Jeddah",
+        "es": "Yeda",
+        "fr": "Djeddah",
+        "ru": "Джидда",
+        "zh": "吉达",
+        "jp": "ジェッダ",
+        "kr": "제다",
+        "hi": "जेद्दा",
+        "he": "ג'דה",
+        "ar": "جدة"
+      },
+      "native": "جدة"
+    },
+    {
+      "code": "JFK",
+      "country": "US",
+      "featured": true,
+      "names": {
+        "en": "New York",
+        "es": "Nueva York",
+        "fr": "New York",
+        "ru": "Нью Йорк",
+        "zh": "纽约",
+        "jp": "ニューヨーク",
+        "kr": "뉴욕",
+        "hi": "न्यूयॉर्क",
+        "he": "ניו יורק",
+        "ar": "نيويورك"
+      }
+    },
+    {
+      "code": "KEF",
+      "country": "IS",
+      "featured": true,
+      "names": {
+        "en": "Reykjavik",
+        "es": "Reikiavik",
+        "fr": "Reykjavík",
+        "ru": "Рейкьявик",
+        "zh": "雷克雅未克",
+        "jp": "レイキャビク",
+        "kr": "레이캬비크",
+        "hi": "रिक्जेविक",
+        "he": "רייקיאוויק",
+        "ar": "ريكيافيك"
+      }
+    },
+    {
+      "code": "KGL",
+      "country": "RW",
+      "featured": true,
+      "names": {
+        "en": "Kigali",
+        "es": "Kigali",
+        "fr": "Kigali",
+        "ru": "Кигали",
+        "zh": "基加利",
+        "jp": "キガリ",
+        "kr": "키갈리",
+        "hi": "किगली",
+        "he": "קיגאלי",
+        "ar": "كيغالي"
+      }
+    },
+    {
+      "code": "KUL",
+      "country": "MY",
+      "names": {
+        "en": "Kuala Lumpur",
+        "es": "Kuala Lumpur",
+        "fr": "Kuala Lumpur",
+        "ru": "Куала Лумпур",
+        "zh": "吉隆坡",
+        "jp": "クアラルンプール",
+        "kr": "쿠알라 룸푸르",
+        "hi": "क्वालालंपुर",
+        "he": "קואלה לומפור",
+        "ar": "كوالا لمبور"
+      }
+    },
+    {
+      "code": "LAS",
+      "country": "US",
+      "featured": true,
+      "names": {
+        "en": "Las Vegas",
+        "es": "Las Vegas",
+        "fr": "Las Vegas",
+        "ru": "Лас Вегас",
+        "zh": "拉斯维加斯",
+        "jp": "ラスベガス",
+        "kr": "라스베가스",
+        "hi": "लास वेगास",
+        "he": "לאס וגאס",
+        "ar": "لاس فيجاس"
+      }
+    },
+    {
+      "code": "LAU",
+      "country": "TG",
+      "names": {
+        "en": "Lomé",
+        "es": "Lomé",
+        "fr": "Lomé",
+        "ru": "Ломе",
+        "zh": "洛美",
+        "jp": "ロメ",
+        "kr": "로메",
+        "hi": "लोमे",
+        "he": "לומה",
+        "ar": "لومي"
+      }
+    },
+    {
+      "code": "LAX",
+      "country": "US",
+      "names": {
+        "en": "Los Angeles",
+        "es": "Los Angeles",
+        "fr": "Los Angeles",
+        "ru": "Лос Анджелес",
+        "zh": "洛杉矶",
+        "jp": "ロサンゼルス",
+        "kr": "로스 앤젤레스",
+        "hi": "लॉस एंजिल्स",
+        "he": "לוס אנג'לס",
+        "ar": "لوس أنجلوس"
+      }
+    },
+    {
+      "code": "LGW",
+      "country": "GB",
+      "names": {
+        "en": "London Gatwick",
+        "es": "Londres Gatwick",
+        "fr": "Londres Gatwick",
+        "ru": "Лондон Гатвик",
+        "zh": "伦敦盖特威克机场",
+        "jp": "ロンドン LGW",
+        "kr": "런던 개트윅",
+        "hi": "लंदन गैटविक",
+        "he": "לונדון גטוויק",
+        "ar": "لندن جاتويك"
+      }
+    },
+    {
+      "code": "LHR",
+      "country": "GB",
+      "featured": true,
+      "names": {
+        "en": "London Heathrow",
+        "es": "Londres Heathrow",
+        "fr": "Londres Heathrow",
+        "ru": "Лондон Хитроу",
+        "zh": "伦敦希思罗机场",
+        "jp": "ロンドン LHR",
+        "kr": "런던 히드로",
+        "hi": "लंदन हीथ्रो",
+        "he": "לונדון הית'רו",
+        "ar": "لندن هيثرو"
+      }
+    },
+    {
+      "code": "LIS",
+      "country": "PT",
+      "featured": true,
+      "names": {
+        "en": "Lisbon",
+        "es": "Lisboa",
+        "fr": "Lisbonne",
+        "ru": "Лиссабон",
+        "zh": "里斯本",
+        "jp": "リスボン",
+        "kr": "리스본",
+        "hi": "लिस्बन",
+        "he": "ליסבון",
+        "ar": "لشبونة"
+      },
+      "native": "Lisboa"
+    },
+    {
+      "code": "LOS",
+      "country": "NG",
+      "featured": true,
+      "names": {
+        "en": "Lagos",
+        "es": "Lagos",
+        "fr": "Lagos",
+        "ru": "Лагос",
+        "zh": "拉各斯",
+        "jp": "ラゴス",
+        "kr": "라고스",
+        "hi": "लागोस",
+        "he": "לאגוס",
+        "ar": "لاغوس"
+      }
+    },
+    {
+      "code": "LUX",
+      "country": "LU",
+      "featured": true,
+      "lang": "fr",
+      "names": {
+        "en": "Luxembourg",
+        "es": "Luxemburgo",
+        "fr": "Luxembourg",
+        "ru": "Люксембург",
+        "zh": "卢森堡",
+        "jp": "ルクセンブルク",
+        "kr": "룩셈부르크",
+        "hi": "लक्समबर्ग",
+        "he": "לוקסמבורג",
+        "ar": "لوكسمبورغ"
+      }
+    },
+    {
+      "code": "MAD",
+      "country": "ES",
+      "names": {
+        "en": "Madrid",
+        "es": "Madrid",
+        "fr": "Madrid",
+        "ru": "Мадрид",
+        "zh": "马德里",
+        "jp": "マドリッド",
+        "kr": "마드리드",
+        "hi": "मैड्रिड",
+        "he": "מדריד",
+        "ar": "مدريد"
+      }
+    },
+    {
+      "code": "MAN",
+      "country": "GB",
+      "names": {
+        "en": "Manchester",
+        "es": "Manchester",
+        "fr": "Manchester",
+        "ru": "Манчестер",
+        "zh": "曼彻斯特",
+        "jp": "マンチェスター",
+        "kr": "맨체스터",
+        "hi": "मैनचेस्टर",
+        "he": "מנצ'סטר",
+        "ar": "مانشستر"
+      }
+    },
+    {
+      "code": "MEX",
+      "country": "MX",
+      "names": {
+        "en": "Mexico City",
+        "es": "Ciudad de México",
+        "fr": "Mexico",
+        "ru": "Мехико",
+        "zh": "墨西哥城",
+        "jp": "メキシコシティ",
+        "kr": "멕시코 시티",
+        "hi": "मेक्सिको सिटी",
+        "he": "העיר מקסיקו",
+        "ar": "مدينة مكسيكو"
+      },
+      "native": "Ciudad de México"
+    },
+    {
+      "code": "MIA",
+      "country": "US",
+      "featured": true,
+      "lang": "es",
+      "names": {
+        "en": "Miami",
+        "es": "Miami",
+        "fr": "Miami",
+        "ru": "Майами",
+        "zh": "迈阿密",
+        "jp": "マイアミ",
+        "kr": "마이애미",
+        "hi": "मियामी",
+        "he": "מיאמי",
+        "ar": "ميامي"
+      }
+    },
+    {
+      "code": "MNL",
+      "country": "PH",
+      "names": {
+        "en": "Manila",
+        "es": "Manila",
+        "fr": "Manille",
+        "ru": "Манила",
+        "zh": "马尼拉",
+        "jp": "マニラ",
+        "kr": "마닐라",
+        "hi": "मनीला",
+        "he": "מנילה",
+        "ar": "مانيلا"
+      },
+      "native": "Maynila"
+    },
+    {
+      "code": "NBO",
+      "country": "KE",
+      "featured": true,
+      "names": {
+        "en": "Nairobi",
+        "es": "Nairobi",
+        "fr": "Nairobi",
+        "ru": "Найроби",
+        "zh": "内罗毕",
+        "jp": "ナイロビ",
+        "kr": "나이로비",
+        "hi": "नैरोबी",
+        "he": "ניירובי",
+        "ar": "نيروبي"
+      }
+    },
+    {
+      "code": "NCE",
+      "country": "FR",
+      "names": {
+        "en": "Nice",
+        "es": "Niza",
+        "fr": "Nice",
+        "ru": "Ницца",
+        "zh": "尼斯",
+        "jp": "ニース",
+        "kr": "니스",
+        "hi": "नीस",
+        "he": "ניס",
+        "ar": "نيس"
+      }
+    },
+    {
+      "code": "NOU",
+      "country": "NC",
+      "names": {
+        "en": "Noumea",
+        "es": "Numea",
+        "fr": "Nouméa",
+        "ru": "Нумеа",
+        "zh": "努美阿",
+        "jp": "ヌメア",
+        "kr": "누메아",
+        "hi": "नौमिया",
+        "he": "נומאה",
+        "ar": "نوميا"
+      }
+    },
+    {
+      "code": "NRT",
+      "country": "JP",
+      "featured": true,
+      "lang": "jp",
+      "names": {
+        "en": "Tokyo Narita",
+        "es": "Tokio Narita",
+        "fr": "Tokyo Narita",
+        "ru": "Токио Нарита",
+        "zh": "东京成田",
+        "jp": "東京・成田",
+        "kr": "도쿄 나리타",
+        "hi": "टोक्यो नारिता",
+        "he": "טוקיו נאריטה",
+        "ar": "طوكيو ناريتا"
+      },
+      "native": "東京・成田"
+    },
+    {
+      "code": "OAK",
+      "country": "US",
+      "names": {
+        "en": "Oakland",
+        "es": "Oakland",
+        "fr": "Oakland",
+        "ru": "Окленд",
+        "zh": "奥克兰",
+        "jp": "オークランド",
+        "kr": "오클랜드",
+        "hi": "ओकलैंड",
+        "he": "אוקלנד",
+        "ar": "أوكلاند"
+      }
+    },
+    {
+      "code": "OPO",
+      "country": "PT",
+      "featured": true,
+      "names": {
+        "en": "Porto",
+        "es": "Oporto",
+        "fr": "Porto",
+        "ru": "Порту",
+        "zh": "波尔图",
+        "jp": "ポルト",
+        "kr": "포르투",
+        "hi": "पोर्टो",
+        "he": "פורטו",
+        "ar": "بورتو"
+      },
+      "native": "Oporto"
+    },
+    {
+      "code": "ORD",
+      "country": "US",
+      "featured": true,
+      "names": {
+        "en": "Chicago",
+        "es": "Chicago",
+        "fr": "Chicago",
+        "ru": "Чигаго",
+        "zh": "奇加戈",
+        "jp": "チガゴ",
+        "kr": "시카고",
+        "hi": "चिगागो",
+        "he": "צ'יגגו",
+        "ar": "شيجاجو"
+      }
+    },
+    {
+      "code": "ORY",
+      "country": "FR",
+      "names": {
+        "en": "Paris Orly",
+        "es": "París Orly",
+        "fr": "Paris Orly",
+        "ru": "Париж Орли",
+        "zh": "巴黎奥利机场",
+        "jp": "パリ・オルリー",
+        "kr": "파리 오를리",
+        "hi": "पेरिस ओर्ली",
+        "he": "פריס אורלי",
+        "ar": "باريس أورلي"
+      }
+    },
+    {
+      "code": "OSL",
+      "country": "NO",
+      "featured": true,
+      "names": {
+        "en": "Oslo",
+        "es": "Oslo",
+        "fr": "Oslo",
+        "ru": "Осло",
+        "zh": "奥斯陆",
+        "jp": "オスロ",
+        "kr": "오슬로",
+        "hi": "ओस्लो",
+        "he": "אוסלו",
+        "ar": "أوسلو"
+      }
+    },
+    {
+      "code": "OUA",
+      "country": "BF",
+      "names": {
+        "en": "Ouagadougou",
+        "es": "Uagadugú",
+        "fr": "Ouagadougou",
+        "ru": "Уагадугу",
+        "zh": "瓦加杜古",
+        "jp": "ワガドゥグー",
+        "kr": "와가두구",
+        "hi": "ऊगादोगो",
+        "he": "אואגדו",
+        "ar": "واغادوغو"
+      }
+    },
+    {
+      "code": "PDX",
+      "country": "US",
+      "names": {
+        "en": "Portland",
+        "es": "Portland",
+        "fr": "Portland",
+        "ru": "Портленд",
+        "zh": "波特兰",
+        "jp": "ポートランド",
+        "kr": "포틀랜드",
+        "hi": "पोर्टलैंड",
+        "he": "פורטלנד",
+        "ar": "بورتلاند"
+      }
+    },
+    {
+      "code": "PEK",
+      "country": "CN",
+      "lang": "zh",
+      "names": {
+        "en": "Beijing",
+        "es": "Beijing",
+        "fr": "Pékin",
+        "ru": "Пекин",
+        "zh": "北京",
+        "jp": "北京",
+        "kr": "베이징",
+        "hi": "बीजिंग",
+        "he": "בייג'ין",
+        "ar": "بكين"
+      },
+      "native": "北京"
+    },
+    {
+      "code": "PHX",
+      "country": "US",
+      "names": {
+        "en": "Phoenix",
+        "es": "Fénix",
+        "fr": "Phénix",
+        "ru": "Феникс",
+        "zh": "凤凰",
+        "jp": "フェニックス",
+        "kr": "불사조",
+        "hi": "अचंभा",
+        "he": "פניקס",
+        "ar": "فينيكس"
+      }
+    },
+    {
+      "code": "PRG",
+      "country": "CZ",
+      "featured": true,
+      "names": {
+        "en": "Prague",
+        "es": "Praga",
+        "fr": "Prague",
+        "ru": "Прага",
+        "zh": "布拉格",
+        "jp": "プラハ",
+        "kr": "프라하",
+        "hi": "प्राहा",
+        "he": "פראג",
+        "ar": "براغ"
+      },
+      "native": "Praha"
+    },
+    {
+      "code": "PTY",
+      "country": "PA",
+      "names": {
+        "en": "Panama City",
+        "es": "Ciudad de Panama",
+        "fr": "Ville de Panama",
+        "ru": "Панама",
+        "zh": "巴拿马城",
+        "jp": "パナマ市",
+        "kr": "파나마시티",
+        "hi": "पनामा सिटी",
+        "he": "העיר פנמה",
+        "ar": "مدينة باناما"
+      },
+      "native": "Ciudad de Panama"
+    },
+    {
+      "code": "PVG",
+      "country": "CN",
+      "lang": "zh",
+      "names": {
+        "en": "Shanghai",
+        "es": "Shanghai",
+        "fr": "Shanghai",
+        "ru": "Шанхай",
+        "zh": "上海",
+        "jp": "上海",
+        "kr": "상하이",
+        "hi": "शंघाई",
+        "he": "שנחאי",
+        "ar": "شنغهاي"
+      },
+      "native": "上海"
+    },
+    {
+      "code": "RAI",
+      "country": "CV",
+      "names": {
+        "en": "Praia",
+        "es": "Playa",
+        "fr": "Plage",
+        "ru": "Прая",
+        "zh": "普拉亚",
+        "jp": "プライア",
+        "kr": "프라이아",
+        "hi": "परैया",
+        "he": "פראיה",
+        "ar": "برايا"
+      }
+    },
+    {
+      "code": "RTM",
+      "country": "NL",
+      "featured": true,
+      "names": {
+        "en": "Rotterdam",
+        "es": "Róterdam",
+        "fr": "Rotterdam",
+        "ru": "Роттердам",
+        "zh": "鹿特丹",
+        "jp": "ロッテルダム",
+        "kr": "로테르담",
+        "hi": "रॉटरडैम",
+        "he": "רוטרדם",
+        "ar": "روتردام"
+      }
+    },
+    {
+      "code": "SEA",
+      "country": "US",
+      "names": {
+        "en": "Seattle",
+        "es": "Seattle",
+        "fr": "Seattle",
+        "ru": "Сиэтл",
+        "zh": "西雅图",
+        "jp": "シアトル",
+        "kr": "시애틀",
+        "hi": "सिएटल",
+        "he": "סיאטל",
+        "ar": "سياتل"
+      }
+    },
+    {
+      "code": "SFO",
+      "country": "US",
+      "featured": true,
+      "names": {
+        "en": "San Francisco",
+        "es": "San Francisco",
+        "fr": "San Francisco",
+        "ru": "Сан Франциско",
+        "zh": "旧金山",
+        "jp": "サンフランシスコ",
+        "kr": "샌프란시스코",
+        "hi": "सैन फ्रांसिस्को",
+        "he": "סן פרנסיסקו",
+        "ar": "سان فرانسيسكو"
+      }
+    },
+    {
+      "code": "SGN",
+      "country": "VN",
+      "names": {
+        "en": "Ho Chi Minh City",
+        "es": "Ho Chi Minh City",
+        "fr": "Ho Chi Minh",
+        "ru": "Хошимин",
+        "zh": "胡志明市",
+        "jp": "ホーチミン市",
+        "kr": "호치민시",
+        "hi": "हो ची मिंन शहर",
+        "he": "הו צ'י מין סיטי",
+        "ar": "مدينة هو تشي مينه"
+      },
+      "native": "Thành Hồ Chí Minh"
+    },
+    {
+      "code": "SIN",
+      "country": "SG",
+      "featured": true,
+      "names": {
+        "en": "Singapore",
+        "es": "Singapur",
+        "fr": "Singapour",
+        "ru": "Сингапур",
+        "zh": "新加坡",
+        "jp": "シンガポール",
+        "kr": "싱가포르",
+        "hi": "सिंगापुर",
+        "he": "סינגפור",
+        "ar": "سنغافورة"
+      }
+    },
+    {
+      "code": "SJC",
+      "country": "US",
+      "names": {
+        "en": "San Jose",
+        "es": "San Jose",
+        "fr": "San José",
+        "ru": "Сан Хосе",
+        "zh": "圣荷西",
+        "jp": "サンノゼ",
+        "kr": "산호세",
+        "hi": "सैन होज़े",
+        "he": "סאן חוזה",
+        "ar": "سان خوسيه"
+      }
+    },
+    {
+      "code": "SLC",
+      "country": "US",
+      "names": {
+        "en": "Salt Lake City",
+        "es": "Salt Lake City",
+        "fr": "Salt Lake City",
+        "ru": "Солт Лейк Сити",
+        "zh": "盐湖城",
+        "jp": "ソルトレイクシティ",
+        "kr": "솔트 레이크시",
+        "hi": "सॉल्ट लेक सिटी",
+        "he": "סולט לייק סיטי",
+        "ar": "سولت لايك سيتي"
+      }
+    },
+    {
+      "code": "SVO",
+      "country": "RU",
+      "featured": true,
+      "lang": "ru",
+      "names": {
+        "en": "Moscow",
+        "es": "Moscú",
+        "fr": "Moscou",
+        "ru": "Москва",
+        "zh": "莫斯科",
+        "jp": "モスクワ",
+        "kr": "모스크바",
+        "hi": "मास्को",
+        "he": "מוסקבה",
+        "ar": "موسكو"
+      },
+      "native": "Москва"
+    },
+    {
+      "code": "SYD",
+      "country": "AU",
+      "featured": true,
+      "names": {
+        "en": "Sydney",
+        "es": "Sídney",
+        "fr": "Sidney",
+        "ru": "Сидней",
+        "zh": "悉尼",
+        "jp": "シドニー",
+        "kr": "시드니",
+        "hi": "सिडनी",
+        "he": "סידני",
+        "ar": "سيدني"
+      }
+    },
+    {
+      "code": "SZX",
+      "country": "CN",
+      "lang": "zh",
+      "names": {
+        "en": "Shenzhen",
+        "es": "Shénzhen",
+        "fr": "Shenzhen",
+        "ru": "Шэньчжэнь",
+        "zh": "深圳",
+        "jp": "深セン",
+        "kr": "심천",
+        "hi": "शेन्ज़ेन",
+        "he": "שנזן",
+        "ar": "شنتشن"
+      },
+      "native": "深圳"
+    },
+    {
+      "code": "TLV",
+      "country": "IL",
+      "featured": true,
+      "lang": "he",
+      "names": {
+        "en": "Tel Aviv",
+        "es": "Tel Aviv",
+        "fr": "Tel Aviv",
+        "ru": "Тель Авив",
+        "zh": "特拉维夫",
+        "jp": "テルアビブ",
+        "kr": "텔 아비브",
+        "hi": "टेल अवीव",
+        "he": "תל אביב",
+        "ar": "تل أبيب"
+      },
+      "native": "תל אביב"
+    },
+    {
+      "code": "TPE",
+      "country": "TW",
+      "featured": true,
+      "lang": "zh",
+      "names": {
+        "en": "Taipei",
+        "es": "Taipéi",
+        "fr": "Taïpei",
+        "ru": "Тайбэй",
+        "zh": "台北",
+        "jp": "台北",
+        "kr": "타이페이",
+        "hi": "ताइपे",
+        "he": "טאיפיי",
+        "ar": "تايبيه"
+      },
+      "native": "臺北市"
+    },
+    {
+      "code": "VCE",
+      "country": "IT",
+      "featured": true,
+      "names": {
+        "en": "Venice",
+        "es": "Venecia",
+        "fr": "Venise",
+        "ru": "Венеция",
+        "zh": "威尼斯",
+        "jp": "ヴェネツィア",
+        "kr": "베니스",
+        "hi": "वेनिस",
+        "he": "ונציה",
+        "ar": "مدينة البندقية"
+      },
+      "native": "Venezia"
+    },
+    {
+      "code": "VIE",
+      "country": "AT",
+      "featured": true,
+      "names": {
+        "en": "Vienna",
+        "es": "Viena",
+        "fr": "Vienne",
+        "ru": "Вена",
+        "zh": "维也纳",
+        "jp": "ウィーン",
+        "kr": "비엔나",
+        "hi": "वियना",
+        "he": "וינה",
+        "ar": "فيينا"
+      },
+      "native": "Wien"
+    },
+    {
+      "code": "WAW",
+      "country": "PL",
+      "featured": true,
+      "names": {
+        "en": "Warsaw",
+        "es": "Varsovia",
+        "fr": "Varsovie",
+        "ru": "Варшава",
+        "zh": "华沙",
+        "jp": "ワルシャワ",
+        "kr": "바르샤바",
+        "hi": "वारसा",
+        "he": "ורשה",
+        "ar": "وارسو"
+      },
+      "native": "Warszawa"
+    },
+    {
+      "code": "YUL",
+      "country": "CA",
+      "featured": true,
+      "lang": "fr",
+      "names": {
+        "en": "Montréal",
+        "es": "Montreal",
+        "fr": "Montréal",
+        "ru": "Монреаль",
+        "zh": "蒙特利尔",
+        "jp": "モントリオール",
+        "kr": "몬트리올",
+        "hi": "मॉन्ट्रियल",
+        "he": "מונטריאול",
+        "ar": "مونتريال"
+      }
+    },
+    {
+      "code": "YVR",
+      "country": "CA",
+      "names": {
+        "en": "Vancouver",
+        "es": "Vancouver",
+        "fr": "Vancouver",
+        "ru": "Ванкувер",
+        "zh": "温哥华",
+        "jp": "バンクーバー",
+        "kr": "밴쿠버",
+        "hi": "वैंकूवर",
+        "he": "ונקובר",
+        "ar": "فانكوفر"
+      }
+    },
+    {
+      "code": "YYC",
+      "country": "CA",
+      "names": {
+        "en": "Calgary",
+        "es": "Calgary",
+        "fr": "Calgary",
+        "ru": "Калгари",
+        "zh": "卡尔加里",
+        "jp": "カルガリー",
+        "kr": "캘거리",
+        "hi": "कैलगरी",
+        "he": "קלגרי",
+        "ar": "كالجاري"
+      }
+    },
+    {
+      "code": "YYZ",
+      "country": "CA",
+      "featured": true,
+      "names": {
+        "en": "Toronto",
+        "es": "Toronto",
+        "fr": "Toronto",
+        "ru": "Торонто",
+        "zh": "多伦多",
+        "jp": "トロント",
+        "kr": "토론토",
+        "hi": "टोरंटो",
+        "he": "טורונטו",
+        "ar": "تورنتو"
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+    "airlines": [
+        {
+            "code": "EG",
+            "country": "IE",
+            "name": "Aer Lingus"
+        },
+        {
+            "code": "AC",
+            "country": "CA",
+            "name": "Air Canada"
+        },
+        {
+            "code": "CA",
+            "country": "CN",
+            "name": "Air China"
+        },
+        {
+            "code": "AF",
+            "country": "FR",
+            "name": "Air France"
+        },
+        {
+            "code": "HC",
+            "country": "SN",
+            "name": "Air Senegal"
+        },
+        {
+            "code": "AS",
+            "country": "US",
+            "name": "Alaska"
+        },
+        {
+            "code": "NH",
+            "country": "JP",
+            "name": "All Nippon Airways"
+        },
+        {
+            "code": "AA",
+            "country": "US",
+            "name": "American"
+        },
+        {
+            "code": "OS",
+            "country": "AT",
+            "name": "Austrian"
+        },
+        {
+            "code": "BA",
+            "country": "GB",
+            "name": "British Airways"
+        },
+        {
+            "code": "CX",
+            "country": "HK",
+            "name": "Cathay Pacific"
+        },
+        {
+            "code": "DL",
+            "country": "US",
+            "name": "Delta"
+        },
+        {
+            "code": "U2",
+            "country": "GB",
+            "name": "EasyJet"
+        },
+        {
+            "code": "MS",
+            "country": "EG",
+            "name": "Egyptair"
+        },
+        {
+            "code": "LY",
+            "country": "IL",
+            "name": "El Al"
+        },
+        {
+            "code": "EK",
+            "country": "UA",
+            "name": "Emirates"
+        },
+        {
+            "code": "ET",
+            "country": "ET",
+            "name": "Ethiopian"
+        },
+        {
+            "code": "IB",
+            "country": "ES",
+            "name": "Iberia"
+        },
+        {
+            "code": "FI",
+            "country": "IS",
+            "name": "Icelandair"
+        },
+        {
+            "code": "JL",
+            "country": "JP",
+            "name": "Japan Airlines"
+        },
+        {
+            "code": "KQ",
+            "country": "KE",
+            "name": "Kenya Airways"
+        },
+        {
+            "code": "KL",
+            "country": "NL",
+            "name": "KLM"
+        },
+        {
+            "code": "KE",
+            "country": "KR",
+            "name": "Korean Air"
+        },
+        {
+            "code": "LO",
+            "country": "PL",
+            "name": "LOT"
+        },
+        {
+            "code": "LH",
+            "country": "DE",
+            "name": "Lufthansa"
+        },
+        {
+            "code": "DY",
+            "country": "NO",
+            "name": "Norwegian"
+        },
+        {
+            "code": "QR",
+            "country": "QA",
+            "name": "Qatar Airways"
+        },
+        {
+            "code": "QF",
+            "country": "AU",
+            "name": "Quantas"
+        },
+        {
+            "code": "WB",
+            "country": "RW",
+            "name": "RwandAir"
+        },
+        {
+            "code": "FR",
+            "country": "IE",
+            "name": "RyanAir"
+        },
+        {
+            "code": "SK",
+            "country": "DK",
+            "name": "SAS"
+        },
+        {
+            "code": "WN",
+            "country": "US",
+            "name": "Southwest"
+        },
+        {
+            "code": "LX",
+            "country": "CH",
+            "name": "Swiss"
+        },
+        {
+            "code": "TP",
+            "country": "PT",
+            "name": "TAP"
+        },
+        {
+            "code": "TK",
+            "country": "TR",
+            "name": "Turkish Airlines"
+        },
+        {
+            "code": "UA",
+            "country": "US",
+            "name": "United"
+        },
+        {
+            "code": "VS",
+            "country": "GB",
+            "name": "Virgin Atlantic"
+        }
+    ]
+}
