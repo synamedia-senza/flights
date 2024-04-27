@@ -1,10 +1,3 @@
-/*
-
-Github authentication?
-
-
-*/
-
 const express = require("express");
 const errorHandler = require('errorhandler');
 const port = 8080;
