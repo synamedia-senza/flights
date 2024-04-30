@@ -8,12 +8,6 @@ See the [Airport Signage](https://developer.synamedia.com/senza/docs/flights) tu
 
 ```bash
 npm install
-
-cd public
-npm install
-npm ci
-npx webpack --config webpack.config.js
-cd ..
 ```
 
 ## Run
