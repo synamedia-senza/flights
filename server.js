@@ -20,24 +20,38 @@ let airportIndex = {}
 airports.forEach(airport => airportIndex[airport.code] = airport);
 
 let schedule = [];
-let now = new Date();
-for (let i = 0; i < config.numFlights; i++) {
-  let airport = randomObject(airports);
-  let airline = randomObject(airlinesByCountry[airport.country] || airlines);
-  let flight = {
-    "time": randomTimeToday(),
-    "airline": airline.code,
-    "flight": zeroPad(randomNumber(100, 5000), 4),
-    "airport": airport.code,
-    "gate": randomObject(config.terminals) + zeroPad(randomNumber(1, config.maxGate), 2),
-    "delay": randomNumber(1,config.delayChance) == 1 ? randomNumber(1,config.maxDelay) : 0,
-    "cancelled": randomNumber(1,config.cancelledChance) == 1
-  };
-  schedule.push(flight);
+function createSchedule() {
+  schedule = [];
+  let now = new Date();
+  for (let i = 0; i < config.numFlights; i++) {
+    let airport = randomObject(airports);
+    let airline = randomObject(airlinesByCountry[airport.country] || airlines);
+    let flight = {
+      "time": randomTime(2),
+      "airline": airline.code,
+      "flight": zeroPad(randomNumber(100, 5000), 4),
+      "airport": airport.code,
+      "gate": randomObject(config.terminals) + zeroPad(randomNumber(1, config.maxGate), 2),
+      "delay": randomNumber(1,config.delayChance) == 1 ? randomNumber(1,config.maxDelay) : 0,
+      "cancelled": randomNumber(1,config.cancelledChance) == 1
+    };
+    schedule.push(flight);
+  }
+  schedule.sort((a,b) => a.time - b.time);
 }
-schedule.sort((a,b) => a.time - b.time);
+createSchedule();
+setInterval(updateRemarks, config.refreshScheduleHours * 3600000);
+
+function updateRemarks() {
+  let now = new Date();
+  schedule.forEach(flight => {
+    flight.minutes = Math.floor((flight.time.getTime() - now.getTime()) / 60000) + flight.delay;
+    let newRemarks = flight.cancelled ? "cancelled" : remarks(flight.minutes, flight.delay);
+    flight.remarks = newRemarks;
+  });
+}
 updateRemarks();
-setInterval(updateRemarks, 15000);
+setInterval(updateRemarks, config.updateRemarksSeconds * 1000);
 
 app.get("/airlines", async (req, res) => {
     res.status(200).json(airlines);
@@ -73,37 +87,26 @@ function groupByCountry(objects) {
   return results;
 }
 
-function randomTimeToday() {
+function randomTime(days) {
   const now = new Date();
 
   const start = new Date(now);
   start.setHours(0, 0, 0, 0);
   const end = new Date(now);
-  end.setDate(end.getDate() + 1);
+  end.setDate(end.getDate() + days - 1);
   end.setHours(23, 59, 59, 999);
 
-  const randomTime = new Date(randomNumber(start.getTime(), end.getTime()));
-  const minutes = randomTime.getMinutes();
+  const time = new Date(randomNumber(start.getTime(), end.getTime()));
+  const minutes = time.getMinutes();
   const roundedMinutes = Math.round(minutes / 5) * 5;
-  randomTime.setMinutes(roundedMinutes);
-  randomTime.setSeconds(0);
-  randomTime.setMilliseconds(0);
-
-  return randomTime;
+  time.setMinutes(roundedMinutes);
+  time.setSeconds(0);
+  time.setMilliseconds(0);
+  return time;
 }
 
 function zeroPad(number, length) {
   return number.toString().padStart(length, "0");
-}
-
-function updateRemarks() {
-  let now = new Date();
-  schedule.forEach(flight => {
-    flight.minutes = Math.floor((flight.time.getTime() - now.getTime()) / 60000) + flight.delay;
-    let newRemarks = flight.cancelled ? "cancelled" : remarks(flight.minutes, flight.delay);
-    // if (flight.remarks && flight.remarks !== newRemarks) console.log(flight.airline + flight.flight, newRemarks);
-    flight.remarks = newRemarks;
-  });
 }
 
 function remarks(minutes, delay) {

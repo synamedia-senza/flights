@@ -6,6 +6,8 @@
     "delayChance": 10,
     "maxDelay": 180,
     "cancelledChance": 30,
+    "updateRemarksSeconds": 30,
+    "refreshScheduleHours": 24,
     "languages": ["en", "es", "fr", "ru", "zh", "jp", "kr", "hi", "he", "ar"],
     "terminals": ["A", "B", "C", "D", "E", "F", "G"]
     
