@@ -1775,6 +1775,691 @@
         "he": "טורונטו",
         "ar": "تورنتو"
       }
+    },
+    {
+      "code": "EZE",
+      "country": "AR",
+      "lang": "es",
+      "names": {
+        "en": "Buenos Aires ",
+        "es": "Buenos Aires",
+        "fr": "Buenos Aires",
+        "ru": "Буэнос Айрес",
+        "zh": "布宜诺斯艾利斯",
+        "jp": "ブエノスアイレス",
+        "kr": "부에노스 아이레스",
+        "hi": "ब्यूनस आयर्स",
+        "he": "בואנוס איירס",
+        "ar": "بوينس آيرس"
+      }
+    },
+    {
+      "code": "SCL",
+      "country": "CL",
+      "lang": "es",
+      "featured": true,
+      "names": {
+        "en": "Santiago",
+        "es": "Santiago",
+        "fr": "Santiago de Chile",
+        "ru": "Сантьяго",
+        "zh": "圣地亚哥",
+        "jp": "サンティアゴ",
+        "kr": "산티아고",
+        "hi": "सेंटियागो",
+        "he": "סנטיאגו",
+        "ar": "سانتياغو"
+      }
+    },
+    {
+      "code": "PMO",
+      "country": "IT",
+      "featured": true,
+      "names": {
+        "en": "Palermo",
+        "es": "Palermo",
+        "fr": "Palerme",
+        "ru": "Палермо",
+        "zh": "巴勒莫",
+        "jp": "パレルモ",
+        "kr": "팔레르모",
+        "hi": "पलेर्मो",
+        "he": "פאלרמו",
+        "ar": "باليرمو"
+      }
+    },
+    {
+      "code": "BOG",
+      "country": "CO",
+      "featured": true,
+      "lang": "es",
+      "names": {
+        "en": "Bogotá",
+        "es": "Bogotá",
+        "fr": "Bogota",
+        "ru": "Богота",
+        "zh": "波哥大",
+        "jp": "ボゴタ",
+        "kr": "보고타",
+        "hi": "बोगोटा",
+        "he": "בוגוטה",
+        "ar": "بوغوتا"
+      }
+    },
+    {
+      "code": "MRS",
+      "country": "FR",
+      "lang": "fr",
+      "names": {
+        "en": "Marseille",
+        "es": "Marsella",
+        "fr": "Marseille",
+        "ru": "Марсель",
+        "zh": "马赛",
+        "jp": "マルセイユ",
+        "kr": "마르세유",
+        "hi": "मारसैल",
+        "he": "מרסיי",
+        "ar": "مرسيليا"
+      }
+    },
+    {
+      "code": "GIG",
+      "country": "BR",
+      "featured": true,
+      "names": {
+        "en": "Rio de Janiero",
+        "es": "Río de Janeiro",
+        "fr": "Rio de Janeiro",
+        "ru": "Рио де Жанейро",
+        "zh": "里约热内卢",
+        "jp": "リオ",
+        "kr": "리우데자네이루",
+        "hi": "रियो डी जनेरियो",
+        "he": "ריו דה ז'ניירו",
+        "ar": "ريو دي جانيرو"
+      }
+    },
+    {
+      "code": "LIM",
+      "country": "PE",
+      "featured": true,
+      "lang": "es",
+      "names": {
+        "en": "Lima",
+        "es": "Lima",
+        "fr": "Lima",
+        "ru": "Лима",
+        "zh": "利马",
+        "jp": "リマ",
+        "kr": "리마",
+        "hi": "लीमा",
+        "he": "לימה",
+        "ar": "ليما"
+      }
+    },
+    {
+      "code": "VVO",
+      "country": "RU",
+      "lang": "ru",
+      "native": "Владивосток",
+      "names": {
+        "en": "Vladivostok",
+        "es": "Vladivostok",
+        "fr": "Vladivostok",
+        "ru": "Владивосток",
+        "zh": "海参崴",
+        "jp": "ウラジオストク",
+        "kr": "블라디보스토크",
+        "hi": "व्लादिवोस्तोक",
+        "he": "ולדיווסטוק",
+        "ar": "فلاديفوستوك"
+      }
+    },
+    {
+      "code": "LED",
+      "country": "RU",
+      "lang": "ru",
+      "featured": true,
+      "native": "Санкт Петербург",
+      "names": {
+        "en": "Saint Petersburg",
+        "es": "San Petersburgo",
+        "fr": "Saint Pétersbourg",
+        "ru": "Санкт Петербург",
+        "zh": "圣彼得堡",
+        "jp": "レニングラード",
+        "kr": "상트 페테르부르크",
+        "hi": "सेंट पीटर्सबर्ग",
+        "he": "סנט פטרסבורג",
+        "ar": "سان بطرسبورج"
+      }
+    },
+    {
+      "code": "PER",
+      "country": "AU",
+      "names": {
+        "en": "Perth",
+        "es": "Perth",
+        "fr": "Perth",
+        "ru": "Перт",
+        "zh": "珀斯",
+        "jp": "パース",
+        "kr": "퍼스",
+        "hi": "पर्थ",
+        "he": "פרת'",
+        "ar": "بيرث"
+      }
+    },
+    {
+      "code": "LAD",
+      "country": "AO",
+      "names": {
+        "en": "Luanda",
+        "es": "Luanda",
+        "fr": "Luanda",
+        "ru": "Луанда",
+        "zh": "罗安达",
+        "jp": "ルアンダ",
+        "kr": "루안다",
+        "hi": "लुआंडा",
+        "he": "לואנדה",
+        "ar": "لواندا"
+      }
+    },
+    {
+      "code": "TIA",
+      "country": "AL",
+      "featured": true,
+      "native": "Tiranës",
+      "names": {
+        "en": "Tirana",
+        "es": "Tirana",
+        "fr": "Tirana",
+        "ru": "Тирана",
+        "zh": "地拉那",
+        "jp": "ティラナ",
+        "kr": "티라나",
+        "hi": "तिराना",
+        "he": "טירנה",
+        "ar": "تيرانا"
+      }
+    },
+    {
+      "code": "MSQ",
+      "country": "BY",
+      "lang": "ru",
+      "native": "Мінск",
+      "featured": true,
+      "names": {
+        "en": "Minsk",
+        "es": "Minsk",
+        "fr": "Minsk",
+        "ru": "Минск",
+        "zh": "明斯克",
+        "jp": "ミンスク",
+        "kr": "민스크",
+        "hi": "मिन्स्क",
+        "he": "מינסק",
+        "ar": "مينسك"
+      }
+    },
+    {
+      "code": "IEV",
+      "country": "UA",
+      "lang": "ru",
+      "featured": true,
+      "native": "Київ",
+      "names": {
+        "en": "Kyiv",
+        "es": "Kyiv",
+        "fr": "Kyiv",
+        "ru": "Киев",
+        "zh": "基辅",
+        "jp": "キエフ",
+        "kr": "키이우",
+        "hi": "कीव",
+        "he": "קייב",
+        "ar": "كييف"
+      }
+    },
+    {
+      "code": "ODS",
+      "country": "UA",
+      "lang": "ru",
+      "native": "Одеса",
+      "names": {
+        "en": "Odesa",
+        "es": "Odesa",
+        "fr": "Odessa",
+        "ru": "Одесса",
+        "zh": "敖德萨",
+        "jp": "オデサ",
+        "kr": "오데사",
+        "hi": "ओदेसा",
+        "he": "אודסה",
+        "ar": "أوديسا"
+      }
+    },
+    {
+      "code": "LWO",
+      "country": "UA",
+      "featured": true,
+      "lang": "ru",
+      "native": "Львів",
+      "names": {
+        "en": "Lviv",
+        "es": "Leópolis",
+        "fr": "Lviv",
+        "ru": "Львов",
+        "zh": "利沃夫",
+        "jp": "リヴィウ",
+        "kr": "리비프",
+        "hi": "ल्वीव",
+        "he": "לבוב",
+        "ar": "لفيف"
+      }
+    },
+    {
+      "code": "UIO",
+      "country": "EC",
+      "featured": true,
+      "lang": "es",
+      "names": {
+        "en": "Quito",
+        "es": "Quito",
+        "fr": "Quito",
+        "ru": "Кито",
+        "zh": "基多",
+        "jp": "キト",
+        "kr": "키토",
+        "hi": "क्विटो",
+        "he": "קיטו",
+        "ar": "كيتو"
+      }
+    },
+    {
+      "code": "CMN",
+      "country": "MA",
+      "featured": true,
+      "lang": "ar",
+      "native": "الدار البيضاء",
+      "names": {
+        "en": "Casablanca",
+        "es": "Casablanca",
+        "fr": "Casablanca",
+        "ru": "Касабланка",
+        "zh": "卡萨布兰卡",
+        "jp": "カサブランカ",
+        "kr": "카사블랑카",
+        "hi": "कैसाब्लांका",
+        "he": "קזבלנקה",
+        "ar": "الدار البيضاء"
+      }
+    },
+    {
+      "code": "TUN",
+      "country": "TN",
+      "lang": "ar",
+      "native": "تونس",
+      "names": {
+        "en": "Tunis",
+        "es": "Túnez",
+        "fr": "Tunisie",
+        "ru": "Тунис",
+        "zh": "突尼斯",
+        "jp": "チュニス",
+        "kr": "튀니스",
+        "hi": "ट्यूनिस",
+        "he": "תוניס",
+        "ar": "تونس"
+      }
+    },
+    {
+      "code": "MGQ",
+      "country": "SO",
+      "native": "Muqdisho",
+      "names": {
+        "en": "Mogadishu",
+        "es": "Mogadisio",
+        "fr": "Mogadiscio",
+        "ru": "Могадишо",
+        "zh": "摩加迪沙",
+        "jp": "モガディシュ",
+        "kr": "모가디슈",
+        "hi": "मोगादिशू",
+        "he": "מוגדישו",
+        "ar": "مقديشو"
+      }
+    },
+    {
+      "code": "FIH",
+      "country": "CD",
+      "lang": "fr",
+      "names": {
+        "en": "Kinshasa",
+        "es": "Kinsasa",
+        "fr": "Kinshasa",
+        "ru": "Киншаса",
+        "zh": "金沙萨",
+        "jp": "キンシャサ",
+        "kr": "킨샤사",
+        "hi": "कीण्षासा",
+        "he": "קינשאסה",
+        "ar": "كينشاسا"
+      }
+    },
+    {
+      "code": "BZV",
+      "country": "CG",
+      "lang": "fr",
+      "names": {
+        "en": "Brazzaville",
+        "es": "Brazzaville",
+        "fr": "Brazzaville",
+        "ru": "Браззавиль",
+        "zh": "布拉柴维尔",
+        "jp": "ブラザビル",
+        "kr": "브라자빌",
+        "hi": "ब्राज़ाविल",
+        "he": "ברזוויל",
+        "ar": "برازافيل"
+      }
+    },
+    {
+      "code": "HRE",
+      "country": "ZW",
+      "names": {
+        "en": "Harare",
+        "es": "Harare",
+        "fr": "Harare",
+        "ru": "Хараре",
+        "zh": "哈拉雷",
+        "jp": "ハラレ",
+        "kr": "하라레",
+        "hi": "हरारे",
+        "he": "הררה",
+        "ar": "هراري"
+      }
+    },
+    {
+      "code": "TNR",
+      "country": "MG",
+      "lang": "fr",
+      "featured": true,
+      "native": "Tananarive",
+      "names": {
+        "en": "Antananarivo",
+        "es": "Antananarivo",
+        "fr": "Tananarive",
+        "ru": "Антананариву",
+        "zh": "塔那那利佛",
+        "jp": "アンタナナリボ",
+        "kr": "안타나나리보",
+        "hi": "अंटानानारिवो",
+        "he": "Antananarivo",
+        "ar": "أنتاناناريفو"
+      }
+    },
+    {
+      "code": "VLI",
+      "country": "VU",
+      "names": {
+        "en": "Port Vila",
+        "es": "Puerto Vila",
+        "fr": "Port Vila",
+        "ru": "Порт Вила",
+        "zh": "维拉港",
+        "jp": "ポートビラ",
+        "kr": "포트빌라",
+        "hi": "पोर्ट विला",
+        "he": "פורט וילה",
+        "ar": "بورت فيلا"
+      }
+    },
+    {
+      "code": "RML",
+      "country": "LK",
+      "lang": "hi",
+      "native": "கொழும்பு",
+      "names": {
+        "en": "Colombo",
+        "es": "Colombo",
+        "fr": "Colombo",
+        "ru": "Коломбо",
+        "zh": "科伦坡",
+        "jp": "コロンボ",
+        "kr": "콜롬보",
+        "hi": "कोलंबो",
+        "he": "קולומבו",
+        "ar": "كولومبو"
+      }
+    },
+    {
+      "code": "ISB",
+      "country": "PK",
+      "lang": "ar",
+      "native": "اسلام‌آباد",
+      "names": {
+        "en": "Islamabad",
+        "es": "Islamabad",
+        "fr": "Islamabad",
+        "ru": "Исламабад",
+        "zh": "伊斯兰堡",
+        "jp": "イスラマバード",
+        "kr": "이슬라마바드",
+        "hi": "इस्लामाबाद",
+        "he": "איסלמבאד",
+        "ar": "اسلام آباد"
+      }
+    },
+    {
+      "code": "TLL",
+      "country": "EE",
+      "featured": true,
+      "names": {
+        "en": "Talinn",
+        "es": "Talin",
+        "fr": "Talin",
+        "ru": "Талинн",
+        "zh": "塔林",
+        "jp": "タリン",
+        "kr": "탈린",
+        "hi": "तेलिन",
+        "he": "טאלין",
+        "ar": "تالين"
+      }
+    },
+    {
+      "code": "RIX",
+      "country": "LV",
+      "featured": true,
+      "names": {
+        "en": "Riga",
+        "es": "Riga",
+        "fr": "Riga",
+        "ru": "Рига",
+        "zh": "里加",
+        "jp": "リガ",
+        "kr": "리가",
+        "hi": "रीगा",
+        "he": "ריגה",
+        "ar": "ريغا"
+      }
+    },
+    {
+      "code": "VNO",
+      "country": "LT",
+      "names": {
+        "en": "Vilnius",
+        "es": "Vilna",
+        "fr": "Vilnius",
+        "ru": "Вильнюс",
+        "zh": "维尔纽斯",
+        "jp": "ビリニュス",
+        "kr": "빌니우스",
+        "hi": "विनियस",
+        "he": "וילנה",
+        "ar": "فيلنيوس"
+      }
+    },
+    {
+      "code": "KIN",
+      "country": "JM",
+      "names": {
+        "en": "Kingston",
+        "es": "Kingston",
+        "fr": "Kingston",
+        "ru": "Кингстон",
+        "zh": "金士顿",
+        "jp": "キングストン",
+        "kr": "킹스턴",
+        "hi": "किन्टाल",
+        "he": "קינגסטון",
+        "ar": "كينغستون"
+      }
+    },
+    {
+      "code": "OTP",
+      "country": "RO",
+      "native": "București",
+      "featured": true,
+      "names": {
+        "en": "Bucharest",
+        "es": "Bucarest",
+        "fr": "Bucarest",
+        "ru": "Бухарест",
+        "zh": "布加勒斯特",
+        "jp": "ブカレスト",
+        "kr": "부카레스트",
+        "hi": "बुकुरेस्टी",
+        "he": "בוקרשט",
+        "ar": "بوخارست"
+      }
+    },
+    {
+      "code": "RMO",
+      "country": "MD",
+      "featured": true,
+      "names": {
+        "en": "Chisinau",
+        "es": "Chisináu",
+        "fr": "Chisinau",
+        "ru": "Кишинев",
+        "zh": "基希讷乌",
+        "jp": "キシナウ",
+        "kr": "키시너우",
+        "hi": "Chişinău",
+        "he": "קישינב",
+        "ar": "كيشيناو"
+      },
+      "native": "Chișinău"
+    },
+    {
+      "code": "SJJ",
+      "country": "BA",
+      "lang": "ru",
+      "featured": true,
+      "native": "Сарајево",
+      "names": {
+        "en": "Sarajavo",
+        "es": "Sarajavo",
+        "fr": "Sarajavo",
+        "ru": "Сараджаво",
+        "zh": "萨拉热窝",
+        "jp": "サラハボ",
+        "kr": "사라야보",
+        "hi": "साराजावो",
+        "he": "סרייבו",
+        "ar": "سراييفو"
+      }
+    },
+    {
+      "code": "LJU",
+      "country": "SI",
+      "names": {
+        "en": "Ljubljana",
+        "es": "Liubliana",
+        "fr": "Ljubljana",
+        "ru": "Любляна",
+        "zh": "卢布尔雅那",
+        "jp": "リュブリャナ",
+        "kr": "류블랴나",
+        "hi": "लुब्लियाना",
+        "he": "לובליאנה",
+        "ar": "ليوبليانا"
+      }
+    },
+    {
+      "code": "SKP",
+      "country": "MK",
+      "lang": "ru",
+      "native": "Скопје",
+      "names": {
+        "en": "Skopje",
+        "es": "Skopie",
+        "fr": "Skopje",
+        "ru": "Скопье",
+        "zh": "斯科普里",
+        "jp": "スコピエ",
+        "kr": "스코페",
+        "hi": "स्कोप्जे",
+        "he": "סקופיה",
+        "ar": "سكوبي"
+      }
+    },
+    {
+      "code": "PRN",
+      "country": "XK",
+      "names": {
+        "en": "Pristina",
+        "es": "Prístina",
+        "fr": "Pristina",
+        "ru": "Приштина",
+        "zh": "普里什蒂纳",
+        "jp": "プリシュティナ",
+        "kr": "프리스티나",
+        "hi": "प्रिस्टीना",
+        "he": "פריסטינה",
+        "ar": "بريشتينا"
+      }
+    },
+    {
+      "code": "TGD",
+      "country": "ME",
+      "lang": "ru",
+      "featured": true,
+      "native": "Подгорица",
+      "names": {
+        "en": "Podgorica",
+        "es": "Podgorica",
+        "fr": "Podgorica",
+        "ru": "Подгорица",
+        "zh": "波德戈里察",
+        "jp": "ポドゴリツァ",
+        "kr": "포드고리차",
+        "hi": "Podgorica",
+        "he": "פודגוריצה",
+        "ar": "بودغوريتشا"
+      }
+    },
+    {
+      "code": "IKA",
+      "country": "IR",
+      "lang": "ar",
+      "native": "تهران",
+      "names": {
+        "en": "Tehran",
+        "es": "Teherán",
+        "fr": "Téhéran",
+        "ru": "Тегеран",
+        "zh": "德黑兰",
+        "jp": "テヘラン",
+        "kr": "테헤란",
+        "hi": "तेहरान",
+        "he": "טהראן",
+        "ar": "طهران"
+      }
     }
   ]
 }
