@@ -40,7 +40,7 @@ function createSchedule() {
   schedule.sort((a,b) => a.time - b.time);
 }
 createSchedule();
-setInterval(updateRemarks, config.refreshScheduleHours * 3600000);
+setInterval(createSchedule, config.refreshScheduleHours * 3600000);
 
 function updateRemarks() {
   let now = new Date();
