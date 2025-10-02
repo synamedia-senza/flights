@@ -118,6 +118,7 @@
       "code": "BEG",
       "country": "RS",
       "lang": "ru",
+      "featured": true,
       "names": {
         "en": "Belgrade",
         "es": "Belgrado",
@@ -256,6 +257,7 @@
     {
       "code": "BTS",
       "country": "SK",
+      "featured": true,
       "names": {
         "en": "Bratislava",
         "es": "Bratislava",
@@ -445,6 +447,7 @@
       "code": "CTS",
       "country": "JP",
       "lang": "jp",
+      "featured": true,
       "names": {
         "en": "Sapporo",
         "es": "Sapporo",
@@ -928,6 +931,7 @@
     {
       "code": "KUL",
       "country": "MY",
+      "featured": true,
       "names": {
         "en": "Kuala Lumpur",
         "es": "Kuala Lumpur",
@@ -1111,6 +1115,8 @@
     {
       "code": "MEX",
       "country": "MX",
+      "featured": true,
+      "lang": "es",
       "names": {
         "en": "Mexico City",
         "es": "Ciudad de México",
@@ -2119,6 +2125,7 @@
       "code": "MGQ",
       "country": "SO",
       "native": "Muqdisho",
+      "featured": true,
       "names": {
         "en": "Mogadishu",
         "es": "Mogadisio",

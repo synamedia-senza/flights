@@ -1,4 +1,5 @@
 .DS_Store
+node_modules
 public/.DS_Store
 public/wallpaper/.DS_Store
 public/logos/.DS_Store
