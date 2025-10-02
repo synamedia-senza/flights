@@ -16,6 +16,8 @@ window.addEventListener("load", async () => {
   await loadSchedule();
   setInterval(loadSchedule, 60000);
 
+  senza.lifecycle.configure({autoBackground: false});
+
   animate(createTable());
   setInterval(changePage, 7000);
 });
@@ -57,12 +59,13 @@ function createHeader(table) {
 
 function flightData(flight, native) {
   let country = flight.airport.country.toLowerCase();
+  native = native && (lang == "en" || lang == "ru") && flight.airport.native;
   return [{key: "time", text: formatTime(new Date(flight.time))},
     {key: "flight", text: flight.airline + flight.flight, 
       icon: `logos/${flight.airline}.png`,
       style: flight.airline},
     {key: "destination", 
-      text: (native && lang == "en" && flight.airport.native) ? flight.airport.native: flight.airport.names[lang], 
+      text: native ? flight.airport.native : flight.airport.names[lang],
       icon: `https://flagpedia.net/data/flags/w160/${country}.webp`,
       style: country},
     {key: "gate", text: flight.gate},
@@ -190,16 +193,12 @@ function setLangIndex(value) {
 
 function prevPage() {
   page = (page - 1 + numPages) % numPages;
-  // slide both pages backward, or forward if we are going to the last page
-  let direction = page != numPages - 1 ? "prev" : "next";
-  animate(createTable(), 1.5, `slide-${direction}`, `slide-${direction}-old`);
+  animate(createTable(), 1.5, `slide-prev`, `slide-prev-old`);
 }
 
 function nextPage() {
   page = (page + 1) % numPages;
-  // slide both pages forward, or backward if we are going to the first page
-  let direction = page != 0 ? "next" : "prev";
-  animate(createTable(), 1.5, `slide-${direction}`, `slide-${direction}-old`);
+  animate(createTable(), 1.5, `slide-next`, `slide-next-old`);
 }
 
 /* the app changes between the following pages:
